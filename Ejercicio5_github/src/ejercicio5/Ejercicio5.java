@@ -59,7 +59,7 @@ public class Ejercicio5 {
             }
 
             if (!encontrado) {
-                System.otrytrut.println("No se ha encontrado el elemento");
+                System.out.println("No se ha encontrado el elemento");
             } else {
                 System.out.println("Elemento: " + nombreAtomo);
                 System.out.println("\n  -El Peso atómico es: " + getPropiedadAtomo(elementoTablaPeriodica, "ATOMIC_WEIGHT"));
